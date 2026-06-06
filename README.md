@@ -30,7 +30,7 @@ Ce dépôt vise à comprendre et manipuler les briques fondamentales nécessaire
 ```text
 stim-qec-decoding-lab/
 ├── notebooks/
-│   └── 01_stim_getting_started_personnel.ipynb
+│   └── stim_getting_started.ipynb
 ├── src/
 ├── tests/
 ├── data/
